@@ -12,18 +12,6 @@ to generate double-identity fingerprints and is further extended to generate tri
 ![image](https://github.com/user-attachments/assets/51146f8f-23ea-4540-8045-c425c729d961)
 
 
-
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-## How to use?
-
-- Coming soon
-
-## Prerequisites
-
-* How to setup Python environment
-
 ## Installing
 
 * Clone the repository or download and unzip it.    
@@ -34,20 +22,6 @@ These instructions will get you a copy of the project up and running on your loc
     # To Update
     conda env update -f env.yml --prune
   ```
-
-## Usage
- *Coming soon
-
-## Code Style Enforcements
-  
-* Coming soon
-
-## Code structure
-- Coming soon
-
-## Pull Request
-- You are always welcome to contribute to this repository by sending a [pull request](https://help.github.com/articles/about-pull-requests/).
-- Please also add the documentation for the implementations/corrections.
 
 ## Citation
 Coming soon
