@@ -9,6 +9,8 @@ to generate double-identity fingerprints and is further extended to generate tri
 * Creation of Minutiae Map
 * Generation of Morphed Fingerprint
 
+![image](https://github.com/user-attachments/assets/51146f8f-23ea-4540-8045-c425c729d961)
+
 
 
 
