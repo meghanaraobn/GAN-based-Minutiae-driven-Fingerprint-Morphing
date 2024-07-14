@@ -24,6 +24,8 @@ This is the implementation of the paper - [GAN-based Minutiae-driven Fingerprint
     # To Update
     conda env update -f env.yml --prune
   ```
+## Running Scripts
+`scripts/fi_morphed_minutiae_list.py` -> `scripts/fi_optimal_cut/single_optimal_cut.py` ->  `scripts/fi_minutiae_map_from_minutiae_list.py` -> Run pix2pix model to generate morphed fingerprints
 
 ## Citation
 ```
