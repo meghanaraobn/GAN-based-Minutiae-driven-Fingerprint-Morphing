@@ -4,10 +4,10 @@ Fingerprint morphing is the process of combining two or more distinct fingerprin
 to generate double-identity fingerprints and is further extended to generate triple-identity fingerprints. The results of our experiments indicate that the generated fingerprints appear realistic and the majority of them can be seen as double-identity fingerprints. The fingerprints resulting from morphing three fingerprints are unlikely to be triple-identity fingerprints, but rather anonymous ones matching none of the constituent original fingerprints.
 
 ## Method
-* Finding the Best Alignment
-* Sub-optimal Selection of Distinct Regions
-* Creation of Minutiae Map
-* Generation of Morphed Fingerprint
+* 1a & 1b - Finding the Best Alignment
+* 2a & 2b - Sub-optimal Selection of Distinct Regions
+* 3a & 3b - Creation of Minutiae Map
+* 4a & 4b - Generation of Morphed Fingerprint
 
 ![image](https://github.com/user-attachments/assets/51146f8f-23ea-4540-8045-c425c729d961)
 
